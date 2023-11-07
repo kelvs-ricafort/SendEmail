@@ -4,7 +4,7 @@ plugins {
 
 android {
     namespace = "com.newtechieblog.wordpress.views.sendemail"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.newtechieblog.wordpress.views.sendemail"

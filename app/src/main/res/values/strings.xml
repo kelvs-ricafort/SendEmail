@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Send Email</string>
+
+    <string name="email_add_hint">Enter Email Address</string>
+    <string name="email_subject_hint">Enter Email Subject</string>
+    <string name="email_message_hint">Enter Your Message</string>
+
+    <string name="send_email_btn">Send Email</string>
 </resources>
